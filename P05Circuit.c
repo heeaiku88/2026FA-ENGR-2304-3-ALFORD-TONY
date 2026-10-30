@@ -172,7 +172,7 @@ static void lcd_init(void)
 void setup(void)
 {
     lcd_init();
-    lcd_print("Hello World");
+    lcd_print("Hello World with Tracking");
 }
 
 void loop(void)
